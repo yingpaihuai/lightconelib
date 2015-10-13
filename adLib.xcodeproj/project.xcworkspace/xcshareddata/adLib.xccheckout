@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>5AA92ADC-6322-4AD6-8B96-AD36984520E0</string>
+	<key>IDESourceControlProjectName</key>
+	<string>project</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>37711c26-3528-4725-9eb8-9a03f640283d</key>
+		<string>svn://svn.ad.com/home/svn/project_dev</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>app-ios/lightconecommon-for-ios/baseLibProject/adLib.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>37711c26-3528-4725-9eb8-9a03f640283d</key>
+		<string>../../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>37711c26-3528-4725-9eb8-9a03f640283d</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>37711c26-3528-4725-9eb8-9a03f640283d</string>
+			<key>IDESourceControlWCCName</key>
+			<string>project_dev</string>
+		</dict>
+	</array>
+</dict>
+</plist>
